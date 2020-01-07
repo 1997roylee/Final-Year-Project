@@ -15,8 +15,8 @@ Challenges:
 Null
 
 Schedule:
-Invite member function.
+1. Invite member function.
 
-Scope project function.
+2. Scope project function.
 
-A function allow to create a question with tags.
+3. A function allow to create a question with tags.

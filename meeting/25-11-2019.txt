@@ -1,0 +1,15 @@
+25/11 FYP meeting
+
+Finished items:
+draft block diagram
+
+Discussion:
+1. Describe each module
+
+2. How to connect block
+
+Challenges:
+Implements in basic demo
+
+Schedule:
+Complete prototype
