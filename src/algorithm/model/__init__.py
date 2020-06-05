@@ -1,0 +1,4 @@
+from __future__ import print_function
+from .MatrixFactorization import MatrixFactorization
+from .PopularModel import PopularModel
+from .DeepMatrixFactorization import DeepMatrixFactorization
