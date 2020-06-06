@@ -12,6 +12,15 @@ We use hybrid techniques to implement the hybrid recommender system to extract t
 
 Postgresql, ruby, python, nodejs, tensorflow
 
+### Postgresql
+
+You have to import the data sql into Postgresql
+
+```sh
+cd data
+psql -U root recourse-development < dbexport.pgsql
+```
+
 ## API application
 
 ```ruby
